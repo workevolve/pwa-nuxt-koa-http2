@@ -42,7 +42,9 @@ const setting = {
     port: 443,
     options: {
       key: fs.readFileSync(path.resolve(process.cwd(), 'build/certs/server.key')),
-      cert: fs.readFileSync(path.resolve(process.cwd(), 'build/certs/server.crt'))
+      cert: fs.readFileSync(path.resolve(process.cwd(), 'build/certs/server.crt')),
+      requestCert: false,
+      rejectUnauthorized: false
     }
   }
 }
