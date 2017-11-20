@@ -1,4 +1,4 @@
-# pwa-nuxt-koa-http1-boilerplate
+# pwa-nuxt-koa-http2-boilerplate
 
 > Progressive Web App with Vuejs running on KoaJS (alternative to express) with http version 2
 
@@ -28,6 +28,10 @@ $ npm run dev
 ```
 
 Development runs on two servers serving http on default port 80 and https on default port 443. You can the default port to your desire port in setting defined in ./server/index.js
+
+## Side Noe
+- http2 implementation is inspired by blog http://ivanjov.com/running-express-koa-and-hapi-on-http-2 and 
+- Example can be found here https://github.com/IvanJov/node-on-http2
 
 ## What's Included
 
