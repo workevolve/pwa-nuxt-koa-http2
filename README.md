@@ -1,14 +1,14 @@
-# pwa-nuxt-koa-http2-boilerplate
+# nuxtjs with koa and http/2
 
-> Progressive Web App with Vuejs running on KoaJS (alternative to express) with http version 2
+- Progressive Web App with Vuejs running on KoaJS (alternative to express) with HTTP/2
 
-> It supports server side render
+- It supports server side render
 
-> This template is inspired by https://github.com/OrangeXC/n2ex
+- This template is inspired by https://github.com/OrangeXC/n2ex
 
-> A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
+- A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
-> This template is Vue 2.0 compatible
+- This template is Vue 2.0 compatible
 
 ## Documentation
 
